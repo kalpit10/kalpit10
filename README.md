@@ -55,7 +55,7 @@
 - Live: https://www.kalpitswami.com
 
 ### 4) Shreni Education – Freelance Frontend
-- Developed a responsive **React + Tailwind** web app with integrated EmailJS communication
+- Developed a responsive **React + Tailwind** web app as a **Freelance Project for an institute** with integrated EmailJS communication
 - Live: https://shreni-education.vercel.app/
 
 ---
