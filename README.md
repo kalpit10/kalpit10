@@ -61,8 +61,10 @@
 ---
 
 ## 🧰 Tech Toolbox
-**Cloud & IaC:** AWS, Terraform  
-**Automation & DevOps:** Git, Bash, Docker  
+**Cloud & IaC:** AWS, Terraform 
+**AWS Services:** EC2, VPC, ASG, ALB, RDS, SNS, IAM, S3, CloudFront, CloudWatch
+**Automation & DevOps:** Git, GitHub Actions, Docker
+**Scripting:** Bash, Python
 **OS:** Linux  
 **Web:** JavaScript, React.js, Node.js, MongoDB
 
