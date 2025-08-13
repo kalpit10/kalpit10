@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hey there, I'm Kalpit Swami
 
-<!--
-**kalpit10/kalpit10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Cloud Engineer in the making** — passionate about building **secure, scalable, and cost-effective** cloud infrastructure.  
+From provisioning AWS environments with **Terraform** to automating deployments with **CI/CD**, I thrive on turning ideas into **production-ready solutions**.
 
-Here are some ideas to get you started:
+💡 Currently mastering **Cloud Architecture** at Seneca College while applying my skills in real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Toolbox
+☁ **Cloud:** AWS  
+⚙ **IaC & Automation:** Terraform · Git · Bash · Docker  
+💻 **Web:** JavaScript · React.js · Node.js · MongoDB  
+🐧 **OS & Scripting:** Linux  
+
+---
+
+## 🌟 What I’ve Built
+
+### **3-Tier Web Architecture on AWS**  
+Built a modular AWS environment with **VPC, ALB, Auto Scaling EC2, and RDS MySQL** — all via Terraform.  
+Implemented **CloudWatch monitoring**, secure **Bastion SSH**, and private networking.  
+[🔗 View Project](https://github.com/kalpit10/3-Tier-Web-Architecture-Terraform-)
+
+---
+
+### **Serverless Portfolio Website**  
+Deployed a **React.js portfolio** using **S3 + CloudFront + ACM (SSL)** with a custom domain.  
+Automated delivery using **GitHub Actions**, with a secure **EmailJS** contact form.  
+[🌐 Live Site](https://www.kalpitswami.com)
+
+---
+
+### **Shreni Education Web App** *(Freelance)*  
+Created a responsive **React + Tailwind** site for an education platform, integrating EmailJS for direct communication.  
+[🌐 Live Site](https://shreni-education.vercel.app)
+
+---
+
+## 🎯 Current Focus
+- Designing **high-availability cloud architectures**  
+- Strengthening **DevOps workflows** with CI/CD pipelines  
+- Exploring **Generative AI** integrations in cloud environments
+
+---
+
+## 📫 Let’s Connect
+📍 Toronto, Canada  
+🌐 [Portfolio](https://www.kalpitswami.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kalpitswami)  
+✉ **kalpit.swami@gmail.com**
