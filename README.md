@@ -1,9 +1,9 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi, I'm Kalpit Swami 👋</h1>
 <p align="center">
-  <b>Aspiring Cloud Engineer</b> focused on <b>secure AWS deployments</b>, <b>Infrastructure as Code (Terraform)</b>, and <b>CI/CD</b>.
+  <b>Aspiring Cloud Engineer</b> focused on <b>secure AWS deployments</b>, <b>Infrastructure as Code (Terraform)</b>, and <b>CI/CD automation</b>.
   <br/>
-  I design scalable, cost‑effective cloud architectures and love turning ideas into production‑ready solutions.
+  I design scalable, cost-effective cloud architectures and security-focused applications, turning ideas into production-ready solutions.
 </p>
 
 <p align="center">
@@ -30,24 +30,31 @@
 ---
 
 ## 🚀 What I Build
-- **Cloud‑native infrastructure** on AWS with **Terraform** (modular, reusable, secure)
-- **Automated pipelines** with Git/GitHub Actions
-- **Production‑style environments** with ALB, Auto Scaling EC2, RDS, and VPC best practices
+- **Cloud-native infrastructure** on AWS with **Terraform** (modular, reusable, secure)
+- **Automated pipelines** with GitHub Actions
+- **Security-driven full-stack apps** aligned with OWASP Top 10 best practices
 
 ---
 
 ## 🌟 Featured Projects
-### 1) 3‑Tier Web Architecture on AWS (Terraform & Auto Scaling)
-- Built a modular 3‑tier environment: **VPC, subnets, ALB, Auto Scaling EC2, RDS MySQL**
+
+### 1) 3-Tier Web Architecture on AWS (Terraform & Auto Scaling)
+- Built a modular 3-tier environment: **VPC, subnets, ALB, Auto Scaling EC2, RDS MySQL**
 - Implemented **CloudWatch** monitoring, **Bastion** SSH access, and private networking
 - Repo: https://github.com/kalpit10/3-Tier-Web-Architecture-Terraform-
 
-### 2) Serverless Portfolio (S3 + CloudFront + ACM + GitHub Actions)
-- Deployed a **React.js** portfolio with **S3/CloudFront**, **ACM (SSL)**, custom domain
+### 2) Resumaid – Resume Builder & ATS Scanner (MERN + Security)
+- Developed a **MERN stack** web app to build resumes and perform **ATS keyword analysis**
+- Implemented **AES-256-CBC encryption**, **MFA**, bcrypt password hashing, secure JWT auth
+- Designed and deployed as **Dockerized microservices** with OWASP Top 10 compliance
+- Repo: https://github.com/kalpit10/Resumaid
+
+### 3) Serverless Portfolio (S3 + CloudFront + ACM + GitHub Actions)
+- Deployed a **React.js** portfolio with **S3/CloudFront**, **ACM (SSL)**, and a custom domain
 - Automated CI/CD via **GitHub Actions** and secured **EmailJS** with GitHub Secrets
 - Live: https://www.kalpitswami.com
 
-### 3) Shreni Education – Freelance Frontend
+### 4) Shreni Education – Freelance Frontend
 - Developed a responsive **React + Tailwind** web app with integrated EmailJS communication
 - Live: https://shreni-education.vercel.app/
 
