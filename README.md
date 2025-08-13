@@ -14,18 +14,23 @@
 </p>
 
 <!-- BADGES -->
+<!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-blue" />
-  <img src="https://img.shields.io/badge/OS-Linux-black?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scripting-Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonwebservices&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-blue" /> &nbsp;
+  <img src="https://img.shields.io/badge/OS-Linux-black?logo=linux&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Scripting-Bash-4EAA25?logo=gnubash&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=nodedotjs&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web-JavaScript-F7DF1E?logo=javascript&logoColor=black" /> &nbsp;
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" /> &nbsp;
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=nodedotjs&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white" />
 </p>
+
 
 ---
 
