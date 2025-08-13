@@ -59,14 +59,42 @@
 - Live: https://shreni-education.vercel.app/
 
 ---
-
 ## 🧰 Tech Toolbox
-**Cloud & IaC:** AWS, Terraform 
-**AWS Services:** EC2, VPC, ASG, ALB, RDS, SNS, IAM, S3, CloudFront, CloudWatch
-**Automation & DevOps:** Git, GitHub Actions, Docker
-**Scripting:** Bash, Python
-**OS:** Linux  
-**Web:** JavaScript, React.js, Node.js, MongoDB
+
+**Cloud & IaC:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)  
+
+**AWS Services:**  
+![EC2](https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?logo=amazonaws&logoColor=white)
+![ASG](https://img.shields.io/badge/Auto%20Scaling-FF4F00?logo=amazonaws&logoColor=white)
+![ALB](https://img.shields.io/badge/ALB-232F3E?logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF9900?logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-232F3E?logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?logo=amazoncloudwatch&logoColor=white)  
+
+**Automation & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+
+**Scripting:**  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+
+**OS:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+
+**Web:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+
 
 ---
 
