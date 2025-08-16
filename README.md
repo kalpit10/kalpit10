@@ -59,7 +59,7 @@
 - Automated CI/CD via **GitHub Actions** and secured **EmailJS** with GitHub Secrets
 - Live: https://www.kalpitswami.com
 
-### 4) Shreni Education – Freelance Frontend
+### 4) Shreni Education – Freelance Project
 - Developed a responsive **React + Tailwind** web app as a **Freelance Project for an institute** with integrated EmailJS communication
 - Live: https://shreni-education.vercel.app/
 
