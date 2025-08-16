@@ -104,8 +104,8 @@
 ---
 
 ## 🎓 Education
-- **PG Certificate – Cloud Architecture & Administration**, Seneca College *(May 2025 – Dec 2025)*
-- **PG Certificate – Cybersecurity & Threat Management** *(4.0 GPA, High Honors)*, Seneca College *(Sep 2024 – Apr 2025)*
+- **PG Certificate – Cloud Architecture & Administration**, Seneca Polytechnic *(May 2025 – Dec 2025)*
+- **PG Certificate – Cybersecurity & Threat Management** *(4.0 GPA, High Honors)*, Seneca Polytechnic *(Sep 2024 – Apr 2025)*
 - **Bachelor of Computer Applications (BCA)**, Guru Gobind Singh Indraprastha University, New Delhi *(2020 – 2023)*
 
 ---
