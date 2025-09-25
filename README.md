@@ -44,8 +44,8 @@
 ## 🌟 Featured Projects
 
 ### 1) 3-Tier Web Architecture on AWS (Terraform & Auto Scaling)
-- Built a modular 3-tier environment: **VPC, subnets, ALB, Auto Scaling EC2, RDS MySQL**
-- Implemented **CloudWatch** monitoring, **Bastion** SSH access, and private networking
+- Designed and deployed a modular 3-tier architecture with VPC, subnets, ALB, Auto Scaling EC2, and RDS MySQL using Terraform
+- Secured infrastructure with private networking, Bastion host access, and CloudWatch monitoring for reliability and visibility
 - Repo: https://github.com/kalpit10/3-Tier-Web-Architecture-Terraform-
 
 ### 2) Resumaid – Resume Builder & ATS Scanner (MERN + Security)
@@ -104,16 +104,15 @@
 ---
 
 ## 🎓 Education
-- **PG Certificate – Cloud Architecture & Administration**, Seneca Polytechnic *(May 2025 – Dec 2025)*
+- **PG Certificate – Cloud Architecture & Administration**, Seneca Polytechnic *(May 2025 – Apr 2026)*
 - **PG Certificate – Cybersecurity & Threat Management** *(4.0 GPA, High Honors)*, Seneca Polytechnic *(Sep 2024 – Apr 2025)*
 - **Bachelor of Computer Applications (BCA)**, Guru Gobind Singh Indraprastha University, New Delhi *(2020 – 2023)*
 
 ---
 
-## 🏅 Achievements & Interests
+## 🏅 Awards & Achievements
+- AWS JAM Winner (Team Competition), AWS Summit 2025
 - President’s Honor List (2024)
-- Core Member – National Service Scheme (NSS), JIMS Vasant Kunj
-- Interests: Cloud Architecture • IaC • DevOps Automation • Video Games • Gen AI • Sports
 
 ---
 
