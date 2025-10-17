@@ -43,9 +43,11 @@
 
 ## 🌟 Featured Projects
 
-### 1) 3-Tier Web Architecture on AWS (Terraform & Auto Scaling)
-- Designed and deployed a modular 3-tier architecture with VPC, subnets, ALB, Auto Scaling EC2, and RDS MySQL using Terraform
-- Secured infrastructure with private networking, Bastion host access, and CloudWatch monitoring for reliability and visibility
+### 1) Production-Ready 3-Tier AWS Infrastructure with Terraform & GitHub Actions
+- Reduced deployment time by over 90% by automating the end-to-end 3-tier AWS infrastructure (VPC, ALB, ASG, RDS, IAM, Bastion) using modular Terraform.
+- Integrated GitHub Actions CI/CD with OIDC authentication and implemented Terraform remote backend with state locking to automate, secure, and standardize cloud deployments.
+- Secured workloads using AWS Secrets Manager, least privileged IAM roles, and Bastion host access.
+- Implemented CloudWatch observability using CloudWatch Agent & dashboards to track EC2 CPU, memory, and Disk metrics, improving reliability and proactive issue detection.
 - Repo: https://github.com/kalpit10/3-Tier-Web-Architecture-Terraform-
 
 ### 2) Resumaid – Resume Builder & ATS Scanner (MERN + Security)
