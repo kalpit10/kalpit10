@@ -31,6 +31,16 @@
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kalpit10&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&bg_color=00000000&theme=transparent" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpit10&layout=compact&hide_title=true&bg_color=00000000&theme=transparent" 
+    height="160"
+  />
+</p>
 
 ---
 
@@ -125,11 +135,3 @@
 ## 🏅 Awards & Achievements
 - AWS JAM Winner (Team Competition), AWS Summit 2025
 - President’s Honor List (2024)
-
----
-
-<!-- SIMPLE STATS (tasteful & minimal) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalpit10&show_icons=true&hide_title=true&hide_rank=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpit10&layout=compact&hide_title=true" height="150" />
-</p>
