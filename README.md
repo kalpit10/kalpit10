@@ -48,7 +48,7 @@
 - Containerized and orchestrated microservices using **Amazon ECR + EKS with ALB Ingress routing**, ensuring **99%+ uptime**, scalability, and clean microservices architecture design.  
 - Implemented **HPA-based autoscaling**, secure secret management using **AWS Secrets Manager + IRSA**, and environment-specific dev/prod deployments with high availability.  
 - Repos:  
-  - **WebApp:** https://github.com/kalpit10/proshop-v2  
+  - **WebApp:** https://github.com/kalpit10/Capstone-WebApp
   - **Infra:** https://github.com/kalpit10/Capstone-Infra-Team4  
 
 ---
