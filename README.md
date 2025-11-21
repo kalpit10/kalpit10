@@ -43,27 +43,39 @@
 
 ## 🌟 Featured Projects
 
-### 1) Production-Ready 3-Tier AWS Infrastructure with Terraform & GitHub Actions
-- Reduced deployment time by over 90% by automating the end-to-end 3-tier AWS infrastructure (VPC, ALB, ASG, RDS, IAM, Bastion) using modular Terraform.
-- Integrated GitHub Actions CI/CD with OIDC authentication and implemented Terraform remote backend with state locking to automate, secure, and standardize cloud deployments.
-- Secured workloads using AWS Secrets Manager, least privileged IAM roles, and Bastion host access.
-- Implemented CloudWatch observability using CloudWatch Agent & dashboards to track EC2 CPU, memory, and Disk metrics, improving reliability and proactive issue detection.
+## 🌟 Featured Projects
+
+### **1) Capstone: Cloud-Native E-Commerce Deployment on AWS (In Progress)**  
+- Engineered a production-grade MERN e-commerce platform using **Terraform, Amazon EKS, and GitHub Actions**, automating infrastructure provisioning and reducing manual deployment effort by ~90%.  
+- Containerized and orchestrated microservices using **Amazon ECR + EKS with ALB Ingress routing**, ensuring **99%+ uptime**, scalability, and clean microservices architecture design.  
+- Implemented **HPA-based autoscaling**, secure secret management using **AWS Secrets Manager + IRSA**, and environment-specific dev/prod deployments with high availability.  
+- Repos:  
+  - **WebApp:** https://github.com/kalpit10/proshop-v2  
+  - **Infra:** https://github.com/kalpit10/Capstone-Infra-Team4  
+
+---
+
+### **2) Production-Ready 3-Tier AWS Infrastructure with Terraform & GitHub Actions**  
+- Reduced deployment time by over **90%** by automating the end-to-end 3-tier AWS infrastructure (VPC, ALB, ASG, RDS, IAM, Bastion) using modular Terraform.  
+- Integrated GitHub Actions CI/CD with OIDC authentication and implemented Terraform remote backend with state locking to automate, secure, and standardize cloud deployments.  
+- Secured workloads using AWS Secrets Manager, least-privileged IAM roles, and Bastion host access.  
+- Implemented CloudWatch observability using CloudWatch Agent & dashboards to track EC2 CPU, memory, and disk metrics, improving reliability and proactive issue detection.  
 - Repo: https://github.com/kalpit10/3-Tier-Web-Architecture-Terraform-
 
-### 2) Resumaid – Resume Builder & ATS Scanner (MERN + Security)
-- Developed a **MERN stack** web app to build resumes and perform **ATS keyword analysis**
-- Implemented **AES-256-CBC encryption**, **MFA**, bcrypt password hashing, secure JWT auth
-- Designed and deployed as **Dockerized microservices** with OWASP Top 10 compliance
-- Repo: https://github.com/kalpit10/Resumaid
+---
 
-### 3) Serverless Portfolio (S3 + CloudFront + ACM + GitHub Actions)
-- Deployed a **React.js** portfolio with **S3/CloudFront**, **ACM (SSL)**, and a custom domain
-- Automated CI/CD via **GitHub Actions** and secured **EmailJS** with GitHub Secrets
+### **3) Resumaid – Resume Builder & ATS Scanner (MERN + Security)**  
+- Developed a MERN stack web app to build resumes and perform ATS keyword analysis.  
+- Implemented AES-256-CBC encryption, MFA, bcrypt hashing, and secure JWT authentication.  
+- Designed and deployed as Dockerized microservices with OWASP Top 10 compliance.  
+- Repo: https://github.com/kalpit10/Resumaid  
+
+---
+
+### **4) Serverless Portfolio (S3 + CloudFront + ACM + GitHub Actions)**  
+- Deployed a React.js portfolio with AWS S3/CloudFront distribution, ACM SSL, and custom domain.  
+- Automated CI/CD via GitHub Actions and secured EmailJS with GitHub Secrets.  
 - Live: https://www.kalpitswami.com
-
-### 4) Shreni Education – Freelance Project
-- Developed a responsive **React + Tailwind** web app as a **Freelance Project for an institute** with integrated EmailJS communication
-- Live: https://shreni-education.vercel.app/
 
 ---
 ## 🧰 Tech Toolbox
