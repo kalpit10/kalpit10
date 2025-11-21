@@ -43,8 +43,6 @@
 
 ## 🌟 Featured Projects
 
-## 🌟 Featured Projects
-
 ### **1) Capstone: Cloud-Native E-Commerce Deployment on AWS (In Progress)**  
 - Engineered a production-grade MERN e-commerce platform using **Terraform, Amazon EKS, and GitHub Actions**, automating infrastructure provisioning and reducing manual deployment effort by ~90%.  
 - Containerized and orchestrated microservices using **Amazon ECR + EKS with ALB Ingress routing**, ensuring **99%+ uptime**, scalability, and clean microservices architecture design.  
