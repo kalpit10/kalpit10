@@ -147,7 +147,7 @@
 <br>
 
 <p align="center">
-  <strong>Web & App Development</strong>
+  <strong>Web Development</strong>
 </p>
 
 <p align="center">
