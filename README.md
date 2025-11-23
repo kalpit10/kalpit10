@@ -86,59 +86,76 @@
 - Live: https://www.kalpitswami.com
 
 ---
+
 ## 🧰 Tech Toolbox
 
 <p align="center">
-
   <!-- Cloud & IaC -->
-  <strong>Cloud & IaC:</strong><br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
-  <br><br>
-
-  <!-- AWS Services -->
-  <strong>AWS Services:</strong><br>
-  <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPC-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auto%20Scaling-FF4F00?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/ALB-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white" />
-  <img src="https://img.shields.io/badge/SNS-FF9900?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F00?logo=amazoncloudwatch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ECR-FF9900?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/EKS-5A2EE5?logo=kubernetes&logoColor=white" />
-  <br><br>
-
-  <!-- Automation & DevOps -->
-  <strong>Automation & DevOps:</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <br><br>
-
-  <!-- Scripting -->
-  <strong>Scripting:</strong><br>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <br><br>
-
-  <!-- OS -->
-  <strong>Operating Systems:</strong><br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <br><br>
-
-  <!-- Web -->
-  <strong>Web & App Development:</strong><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-
+  <strong>Cloud & IaC</strong>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>AWS Services</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auto Scaling-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ALB-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EKS-5A2EE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>DevOps & Automation</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Scripting & OS</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Web & App Development</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 
 ---
