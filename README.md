@@ -169,4 +169,4 @@
 
 ## 🏅 Awards & Achievements
 - AWS JAM Winner (Team Competition), AWS Summit 2025
-- President’s Honor List (2024)
+- President’s Honor List for Cybersecurity & Cloud Computing (2024 & 2025) [GPA 4.0] 
