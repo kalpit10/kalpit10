@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi, I'm Kalpit Swami 👋</h1>
 <p align="center">
-  <b>Aspiring Cloud Engineer</b> focused on <b>secure AWS deployments</b>, <b>Infrastructure as Code (Terraform)</b>, and <b>CI/CD automation</b>.
+  <b>Aspiring Cloud/Platform Engineer</b> focused on <b>secure AWS deployments</b>, <b>Infrastructure as Code (Terraform)</b>, and <b>CI/CD automation</b>.
   <br/>
   I design scalable, cost-effective cloud architectures and security-focused applications, turning ideas into production-ready solutions.
 </p>
