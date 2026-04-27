@@ -1,9 +1,9 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi, I'm Kalpit Swami 👋</h1>
 <p align="center">
-  <b>Cloud & DevOps Engineer</b> — building production-grade AWS infrastructure with <b>Terraform</b>, <b>Kubernetes</b>, and <b>GitHub Actions CI/CD</b>.
+  <b>Cloud & DevOps Engineer</b> - building production-grade AWS infrastructure with <b>Terraform</b>, <b>Kubernetes</b>, and <b>GitHub Actions CI/CD</b>.
   <br/>
-  <b>AWS Certified Solutions Architect – Associate</b> · <b>AWS JAM Winner</b> · <b>4.0 GPA</b>
+  <b>AWS Certified Solutions Architect - Associate</b> · <b>AWS JAM Winner</b> · <b>4.0 GPA</b>
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ Live React portfolio deployed via secure, keyless CI/CD.
 
 ---
 
-### **4) Resumaid – Resume Builder & ATS Scanner (MERN + Security)**
+### **4) Resumaid - Resume Builder & ATS Scanner (MERN + Security)**
 Security-focused full-stack web app aligned with OWASP Top 10.
 
 - Developed a MERN stack web app to build resumes and perform ATS keyword analysis
@@ -146,14 +146,14 @@ Security-focused full-stack web app aligned with OWASP Top 10.
 
 ## 🎓 Education
 
-- **PG Certificate – Cloud Architecture & Administration**, Seneca Polytechnic *(May 2025 – Apr 2026)*
-- **PG Certificate – Cybersecurity & Threat Management**, Seneca Polytechnic *(Sep 2024 – Apr 2025)* — **4.0 GPA, High Honors**
-- **Bachelor of Computer Applications (BCA)**, Guru Gobind Singh Indraprastha University, New Delhi *(2020 – 2023)*
+- **PG Certificate – Cloud Architecture & Administration**, Seneca Polytechnic *(May 2025 – Apr 2026)* - **4.0 GPA, High Honors**
+- **PG Certificate – Cybersecurity & Threat Management**, Seneca Polytechnic *(Sep 2024 – Apr 2025)* - **4.0 GPA, High Honors**
+- **Bachelor of Computer Applications (BCA)**, Guru Gobind Singh Indraprastha University, New Delhi *(2020 – 2023)* - **3.8 GPA**
 
 ---
 
 ## 🏅 Certifications & Awards
 
-- **AWS Certified Solutions Architect – Associate** (SAA-C03) — 2026
-- **Winner – AWS JAM** — Team Competition, AWS Summit 2025
-- **4x President's Honour List** — Academic excellence in Cloud Architecture & Cybersecurity
+- **AWS Certified Solutions Architect – Associate** (SAA-C03) - 2026
+- **Winner - AWS JAM** - Team Competition, AWS Summit 2025
+- **4x President's Honour List** - Academic excellence in Cloud Architecture & Cybersecurity
