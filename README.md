@@ -155,5 +155,5 @@ Security-focused full-stack web app aligned with OWASP Top 10.
 ## 🏅 Certifications & Awards
 
 - **AWS Certified Solutions Architect – Associate** (SAA-C03) - 2026
-- **Winner - AWS JAM** - Team Competition, AWS Summit 2025
+- **2x AWS JAM Podium Finalist 🏆 (1st & 2nd)** - Team Competition
 - **4x President's Honour List** - Academic excellence in Cloud Architecture & Cybersecurity
