@@ -47,19 +47,20 @@ Recently completed a Government of Ontario co-op where I automated infrastructur
 
 ## 🌟 Featured Projects
 
-### **1) Cloud-Native E-Commerce Deployment on AWS**
-Production-grade microservices platform on EKS with full IaC and automated deployments.
-
-- Provisioned multi-environment AWS infra using **modular Terraform** (VPC, EKS, ECR, Secrets Manager) with S3 remote state and DynamoDB locking
-- Built **GitHub Actions CI/CD with OIDC authentication** and environment detection — auto-pushing container images to ECR for dev and prod
-- Deployed microservices on **Amazon EKS with IRSA secrets injection**, ALB Ingress routing, and HPA for CPU-based auto-scaling
-- Designed layered VPC with public/private subnets across two AZs, isolating worker nodes behind NAT Gateway
+### 1) Cloud-Native E-Commerce Platform on AWS EKS
+ 
+Production-grade GitOps platform on EKS with automated standup, zero static credentials, and full-stack observability.
+ 
+- Separated infrastructure, deployment, and secrets into three independent layers using **Terraform**, **ArgoCD App of Apps**, and **External Secrets Operator**, eliminating coupling between infrastructure state and application lifecycle
+- Automated full environment standup in 20 minutes via **GitHub Actions** pipeline: Terraform apply, **Trivy-scanned ECR** image builds, ArgoCD Helm bootstrap, and deployment validation with zero manual steps
+- Hardened supply chain security by pinning all **GitHub Actions to immutable commit SHAs**, enforcing **Checkov IaC scanning** on every PR and **OIDC federation** with **IRSA** per-workload scoped roles
+- Deployed **kube-prometheus-stack** (Prometheus, Grafana, Alertmanager) and 8 **CloudWatch Alarms** with SNS notifications via ArgoCD GitOps, backed by gp3 EBS persistent volumes
 
 🔗 [Infrastructure Repo](https://github.com/kalpit10/Capstone-Infra-Team4) · [WebApp Repo](https://github.com/kalpit10/Capstone-WebApp)
 
 ---
 
-### **2) Production-Ready 3-Tier AWS Infrastructure with Terraform & CI/CD**
+### **2) Production-Style 3-Tier AWS Infrastructure with Terraform & CI/CD**
 End-to-end automated 3-tier architecture with security and observability built in.
 
 - Built modular **Terraform 3-tier architecture** (ALB, ASG, RDS MySQL) with S3 remote state, DynamoDB locking, and security group chaining for least-privilege traffic flow
