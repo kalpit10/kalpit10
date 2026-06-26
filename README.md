@@ -11,6 +11,8 @@
   <a href="https://www.linkedin.com/in/kalpitswami">LinkedIn</a> •
   <a href="mailto:kalpit.swami@gmail.com">Email</a> •
   <a href="https://medium.com/@kalpit.swami">Medium</a>
+  <a href="https://dev.to/kalpit_swami">Dev.to</a>
+
 </p>
 
 <!-- GITHUB STATS -->
@@ -41,8 +43,6 @@
 - Deploy **containerized microservices** on Amazon EKS with IRSA, ALB Ingress, and HPA
 - Apply **least-privilege IAM, secrets management, and layered network security** by default
 
-Recently completed a Government of Ontario co-op where I automated infrastructure provisioning across 21 sites with Ansible.
-
 ---
 
 ## 🌟 Featured Projects
@@ -56,7 +56,7 @@ Production-grade GitOps platform on EKS with automated standup, zero static cred
 - Hardened supply chain security by pinning all **GitHub Actions to immutable commit SHAs**, enforcing **Checkov IaC scanning** on every PR and **OIDC federation** with **IRSA** per-workload scoped roles
 - Deployed **kube-prometheus-stack** (Prometheus, Grafana, Alertmanager) and 8 **CloudWatch Alarms** with SNS notifications via ArgoCD GitOps, backed by gp3 EBS persistent volumes
 
-🔗 [Infrastructure Repo](https://github.com/kalpit10/Capstone-Infra-Team4) · [WebApp Repo](https://github.com/kalpit10/Capstone-WebApp)
+🔗 [Infrastructure Repo](https://github.com/kalpit10/Fully-Automated-EKS-GitOps-Platform) · [WebApp Repo](https://github.com/kalpit10/Capstone-WebApp)
 
 ---
 
@@ -155,6 +155,6 @@ Security-focused full-stack web app aligned with OWASP Top 10.
 
 ## 🏅 Certifications & Awards
 
-- **AWS Certified Solutions Architect – Associate** (SAA-C03) - 2026
-- **2x AWS JAM Podium Finalist 🏆 (1st & 2nd)** - Team Competition
-- **4x President's Honour List** - Academic excellence in Cloud Architecture & Cybersecurity
+- **AWS Certified Solutions Architect – Associate** (SAA-C03)
+- **2x AWS JAM Podium 🏆 (1st & 2nd)** - Team Competition
+- **4x President's Honour List** - Academic excellence in Cloud Architecture & Cybersecurity. 4.0 GPA across all semesters
