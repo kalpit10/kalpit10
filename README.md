@@ -10,7 +10,7 @@
   <a href="https://www.kalpitswami.com">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/kalpitswami">LinkedIn</a> •
   <a href="mailto:kalpit.swami@gmail.com">Email</a> •
-  <a href="https://medium.com/@kalpit.swami">Medium</a>
+  <a href="https://medium.com/@kalpit.swami">Medium</a> •
   <a href="https://dev.to/kalpit_swami">Dev.to</a>
 
 </p>
